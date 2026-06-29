@@ -26,8 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
