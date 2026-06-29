@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0118-pascals-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0290-word-pattern) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
