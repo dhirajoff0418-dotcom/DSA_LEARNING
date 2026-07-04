@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0875-koko-eating-bananas) |
 | [2187-minimum-time-to-complete-trips](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2187-minimum-time-to-complete-trips) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0875-koko-eating-bananas) |
 | [2187-minimum-time-to-complete-trips](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2187-minimum-time-to-complete-trips) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0374-guess-number-higher-or-lower) |
+## Sorting
+|  |
+| ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2300-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
