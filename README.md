@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [3689-maximum-total-subarray-value-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [3689-maximum-total-subarray-value-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/3689-maximum-total-subarray-value-i) |
 ## Tree
 |  |
 | ------- |
