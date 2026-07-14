@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0441-arranging-coins) |
+| [0991-broken-calculator](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0991-broken-calculator) |
 ## Simulation
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1328-break-a-palindrome) |
 | [2126-destroying-asteroids](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2126-destroying-asteroids) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2448-minimum-cost-to-make-array-equal) |
