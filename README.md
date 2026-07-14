@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0948-bag-of-tokens) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2126-destroying-asteroids](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2126-destroying-asteroids) |
 | [2187-minimum-time-to-complete-trips](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0118-pascals-triangle) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0434-number-of-segments-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0551-student-attendance-record-i) |
 | [1328-break-a-palindrome](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Counting
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2126-destroying-asteroids](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2126-destroying-asteroids) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/3689-maximum-total-subarray-value-i) |
