@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0434-number-of-segments-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0551-student-attendance-record-i) |
+| [1328-break-a-palindrome](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1328-break-a-palindrome) |
 ## Counting
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0948-bag-of-tokens) |
+| [1328-break-a-palindrome](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1328-break-a-palindrome) |
 | [2126-destroying-asteroids](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2126-destroying-asteroids) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/3689-maximum-total-subarray-value-i) |
