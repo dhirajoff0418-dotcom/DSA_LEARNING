@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0434-number-of-segments-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0551-student-attendance-record-i) |
+| [0649-dota2-senate](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0649-dota2-senate/) | Medium |
 | [1328-break-a-palindrome](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2405-optimal-partition-of-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2405-optimal-partition-of-string/) | Medium |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0649-dota2-senate/) | Medium |
 | [0881-boats-to-save-people](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0991-broken-calculator) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
