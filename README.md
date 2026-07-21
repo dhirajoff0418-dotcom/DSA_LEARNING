@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0649-dota2-senate/) | Medium |
 | [1328-break-a-palindrome](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Counting
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0948-bag-of-tokens) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2126-destroying-asteroids) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1323-maximum-69-number/) | Easy |
 | [1328-break-a-palindrome](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2126-destroying-asteroids](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2126-destroying-asteroids) |
