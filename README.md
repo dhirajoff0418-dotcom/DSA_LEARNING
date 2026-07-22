@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/3689-maximum-total-subarray-value-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1323-maximum-69-number/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 <!---LeetCode Topics End-->
