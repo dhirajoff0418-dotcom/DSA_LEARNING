@@ -29,4 +29,25 @@ public class Solution
 
         return count;
     }
+
+
+    /* To reuce the traversing of teh array again and again we can use hashet and keep the array in hash set for better searching */
+    // public int MaxCount(int[] banned, int n, int maxSum)
+    // {
+    //     HashSet<int> bannedSet = new HashSet<int>(banned);
+
+    //     int count = 0;
+    //     int sum = 0;
+
+    //     for (int i = 1; i <= n; i++)
+    //     {
+    //         if (!bannedSet.Contains(i) && sum + i <= maxSum)
+    //         {
+    //             sum += i;
+    //             count++;
+    //         }
+    //     }
+
+    //     return count;
+    // }
 }
