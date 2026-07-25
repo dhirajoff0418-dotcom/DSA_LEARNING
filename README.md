@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0551-student-attendance-record-i) |
 | [0649-dota2-senate](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0649-dota2-senate/) | Medium |
 | [1328-break-a-palindrome](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1328-break-a-palindrome) |
+| [1544-make-the-string-great](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1544-make-the-string-great/) | Easy |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1544-make-the-string-great](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1544-make-the-string-great/) | Easy |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
