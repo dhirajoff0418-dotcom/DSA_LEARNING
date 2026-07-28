@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0441-arranging-coins) |
 | [0991-broken-calculator](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1323-maximum-69-number/) | Easy |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1323-maximum-69-number/) | Easy |
 | [1328-break-a-palindrome](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1328-break-a-palindrome) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
