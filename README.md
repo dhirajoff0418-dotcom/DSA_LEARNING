@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
+| [2211-count-collisions-on-a-road](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Counting
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0415-add-strings) |
+| [2211-count-collisions-on-a-road](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1544-make-the-string-great](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1544-make-the-string-great/) | Easy |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
+| [2211-count-collisions-on-a-road](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2211-count-collisions-on-a-road/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
