@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [2785-sort-vowels-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
+| [2785-sort-vowels-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Greedy
