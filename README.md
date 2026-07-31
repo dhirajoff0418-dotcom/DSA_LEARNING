@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
