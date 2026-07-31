@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0948-bag-of-tokens) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
