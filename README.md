@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Counting
