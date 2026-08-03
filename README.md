@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0002-add-two-numbers/) | Medium |
 | [0067-add-binary](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0067-add-binary) |
+| [0382-linked-list-random-node](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0382-linked-list-random-node/) | Medium |
 | [0415-add-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0441-arranging-coins) |
 | [0991-broken-calculator](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0991-broken-calculator) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0382-linked-list-random-node](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0382-linked-list-random-node/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
@@ -324,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0382-linked-list-random-node/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0382-linked-list-random-node/) | Medium |
 <!---LeetCode Topics End-->
