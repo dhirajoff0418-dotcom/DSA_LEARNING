@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0844-backspace-string-compare/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Linked List
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
