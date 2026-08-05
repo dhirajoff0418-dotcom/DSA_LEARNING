@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2785-sort-vowels-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Counting
