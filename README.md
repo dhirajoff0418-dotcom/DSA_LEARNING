@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3731-find-missing-elements/) | Easy |
 ## Sliding Window
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2554-maximum-number-of-integers-to-choose-from-a-range-i/) | Medium |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
