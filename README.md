@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Recursion
