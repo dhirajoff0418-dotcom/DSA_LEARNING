@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0002-add-two-numbers/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,10 +331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1544-make-the-string-great/) | Easy |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [2211-count-collisions-on-a-road](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2211-count-collisions-on-a-road/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
+| [2487-remove-nodes-from-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
