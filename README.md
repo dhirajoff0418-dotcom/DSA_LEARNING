@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0382-linked-list-random-node/) | Medium |
 | [0415-add-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0991-broken-calculator](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1323-maximum-69-number/) | Easy |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0382-linked-list-random-node/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1669-merge-in-between-linked-lists/) | Medium |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0445-add-two-numbers-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0844-backspace-string-compare](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0844-backspace-string-compare/) | Easy |
 | [0880-decoded-string-at-index](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0880-decoded-string-at-index/) | Medium |
 | [1544-make-the-string-great](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1544-make-the-string-great/) | Easy |
