@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0455-assign-cookies) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0076-minimum-window-substring/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0205-isomorphic-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
