@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0948-bag-of-tokens) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
