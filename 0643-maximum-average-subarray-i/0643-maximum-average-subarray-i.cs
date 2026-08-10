@@ -1,19 +1,31 @@
-public class Solution {
-    public double FindMaxAverage(int[] nums, int k) {
-        int sum = 0;
+public class Solution
+{
+    public double FindMaxAverage(int[] nums, int k)
+    {
+        int i = 0;
+        int prevSum = 0;
+        double maxAverage = double.MinValue;
 
-        for (int i = 0; i < k; i++) {
-            sum += nums[i];
+        for (int j = 0; j < nums.Length; j++)
+        {
+            // Add right element
+            prevSum += nums[j];
+
+            // Window size is k
+            if (j - i + 1 == k)
+            {
+                // Calculate average of current window
+                double currentAverage = (double)prevSum / k;
+
+                // Update maximum
+                maxAverage = Math.Max(maxAverage, currentAverage);
+
+                // Remove left element
+                prevSum -= nums[i];
+                i++;
+            }
         }
 
-        int max = sum;
-
-        for (int i = k; i < nums.Length; i++) {
-            sum += nums[i];
-            sum -= nums[i - k];
-            max = Math.Max(max, sum);
-        }
-
-        return (double)max / k;
+        return maxAverage;
     }
 }
