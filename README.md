@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0443-string-compression](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0455-assign-cookies) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0076-minimum-window-substring/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0290-word-pattern) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0002-add-two-numbers/) | Medium |
 | [0067-add-binary](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0202-happy-number/) | Easy |
 | [0382-linked-list-random-node](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0382-linked-list-random-node/) | Medium |
 | [0415-add-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0441-arranging-coins) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0202-happy-number/) | Easy |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
