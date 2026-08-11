@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Two Pointers
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0649-dota2-senate/) | Medium |
 | [0844-backspace-string-compare](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0844-backspace-string-compare/) | Easy |
 | [0880-decoded-string-at-index](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0880-decoded-string-at-index/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1328-break-a-palindrome](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1328-break-a-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1544-make-the-string-great](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1544-make-the-string-great/) | Easy |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 ## Binary Search
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0875-koko-eating-bananas) |
+| [1208-get-equal-substrings-within-budget](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2187-minimum-time-to-complete-trips) |
