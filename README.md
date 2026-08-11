@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0948-bag-of-tokens) |
+| [1207-unique-number-of-occurrences](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1488-avoid-flood-in-the-city/) | Medium |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
