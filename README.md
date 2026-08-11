@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1488-avoid-flood-in-the-city/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1488-avoid-flood-in-the-city/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0383-ransom-note) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1323-maximum-69-number/) | Easy |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
