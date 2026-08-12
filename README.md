@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0948-bag-of-tokens) |
 | [1207-unique-number-of-occurrences](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 ## Binary Search
