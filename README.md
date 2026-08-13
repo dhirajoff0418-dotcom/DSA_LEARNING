@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3731-find-missing-elements/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3731-find-missing-elements/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
