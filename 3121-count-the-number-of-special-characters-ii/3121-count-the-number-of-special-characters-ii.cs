@@ -8,7 +8,6 @@ public class Solution
         {
             int lastLower = -1;
 
-            // Find last lowercase occurrence
             for (int i = 0; i < word.Length; i++)
             {
                 if (word[i] == c)
@@ -19,7 +18,6 @@ public class Solution
 
             int firstUpper = -1;
 
-            // Find first uppercase occurrence
             for (int i = 0; i < word.Length; i++)
             {
                 if (word[i] == char.ToUpper(c))
@@ -29,7 +27,6 @@ public class Solution
                 }
             }
 
-            // Check if special
             if (lastLower != -1 &&
                 firstUpper != -1 &&
                 lastLower < firstUpper)
