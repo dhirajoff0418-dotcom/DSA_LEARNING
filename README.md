@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0190-reverse-bits/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0190-reverse-bits](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0190-reverse-bits/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
