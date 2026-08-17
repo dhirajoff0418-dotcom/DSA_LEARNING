@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0443-string-compression/) | Medium |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0190-reverse-bits/) | Easy |
+| [0389-find-the-difference](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0389-find-the-difference/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0948-bag-of-tokens) |
