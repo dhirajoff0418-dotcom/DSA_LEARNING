@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0948-bag-of-tokens) |
+| [1002-find-common-characters](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0575-distribute-candies/) | Easy |
+| [1002-find-common-characters](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1002-find-common-characters/) | Easy |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0649-dota2-senate/) | Medium |
 | [0844-backspace-string-compare](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0844-backspace-string-compare/) | Easy |
 | [0880-decoded-string-at-index](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0880-decoded-string-at-index/) | Medium |
+| [1002-find-common-characters](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1002-find-common-characters/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1328-break-a-palindrome](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1328-break-a-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
