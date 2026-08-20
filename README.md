@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0948-bag-of-tokens) |
 | [1002-find-common-characters](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0991-broken-calculator](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0991-broken-calculator) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1323-maximum-69-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1323-maximum-69-number/) | Easy |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1512-number-of-good-pairs/) | Easy |
