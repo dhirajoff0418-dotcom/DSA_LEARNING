@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0202-happy-number/) | Easy |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0206-reverse-linked-list/) | Easy |
