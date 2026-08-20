@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2126-destroying-asteroids) |
 | [2187-minimum-time-to-complete-trips](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2187-minimum-time-to-complete-trips) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2405-optimal-partition-of-string/) | Medium |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2126-destroying-asteroids](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2126-destroying-asteroids) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
@@ -461,5 +465,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
