@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2870-minimum-number-of-operations-to-make-array-empty/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/3689-maximum-total-subarray-value-i) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2211-count-collisions-on-a-road/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
