@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0002-add-two-numbers/) | Medium |
 | [0067-add-binary](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0202-happy-number/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0509-fibonacci-number/) | Easy |
 ## Bracket Sequences
