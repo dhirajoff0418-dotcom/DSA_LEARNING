@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0190-reverse-bits](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0190-reverse-bits/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -493,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
