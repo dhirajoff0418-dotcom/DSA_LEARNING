@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
