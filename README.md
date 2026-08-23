@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1927-sum-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1927-sum-game/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
