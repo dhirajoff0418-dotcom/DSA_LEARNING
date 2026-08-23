@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1759-count-number-of-homogenous-substrings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1927-sum-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1927-sum-game/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2211-count-collisions-on-a-road/) | Medium |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
+| [1927-sum-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1927-sum-game/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
+| [1927-sum-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1927-sum-game/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 | [2126-destroying-asteroids](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2126-destroying-asteroids) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1927-sum-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1927-sum-game/) | Medium |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
