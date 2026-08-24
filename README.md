@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0046-permutations/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -520,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1025-divisor-game/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
