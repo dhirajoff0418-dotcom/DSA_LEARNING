@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0015-3sum/) | Medium |
+| [0148-sort-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0148-sort-list/) | Medium |
 | [0389-find-the-difference](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0881-boats-to-save-people) |
@@ -485,11 +488,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0148-sort-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0148-sort-list/) | Medium |
 | [0190-reverse-bits](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0190-reverse-bits/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0148-sort-list/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
