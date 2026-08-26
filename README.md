@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0443-string-compression/) | Medium |
+| [0504-base-7](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0504-base-7/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0649-dota2-senate](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0649-dota2-senate/) | Medium |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0504-base-7](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0509-fibonacci-number/) | Easy |
 | [0991-broken-calculator](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0991-broken-calculator) |
 | [1025-divisor-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1025-divisor-game/) | Easy |
