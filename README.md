@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0202-happy-number/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0258-add-digits](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0263-ugly-number/) | Easy |
 | [0382-linked-list-random-node](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0382-linked-list-random-node/) | Medium |
 | [0415-add-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0415-add-strings) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0844-backspace-string-compare/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0258-add-digits/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Heap (Priority Queue)
