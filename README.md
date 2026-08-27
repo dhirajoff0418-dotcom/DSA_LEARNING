@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0485-max-consecutive-ones) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0443-string-compression](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0389-find-the-difference/) | Easy |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0015-3sum/) | Medium |
 | [0148-sort-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0148-sort-list/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0881-boats-to-save-people) |
