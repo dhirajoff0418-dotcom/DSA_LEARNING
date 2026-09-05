@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0061-rotate-list/) | Medium |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0016-3sum-closest/) | Medium |
 | [0148-sort-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0148-sort-list/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0389-find-the-difference/) | Easy |
