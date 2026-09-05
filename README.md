@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3731-find-missing-elements/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
