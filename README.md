@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3870-count-commas-in-range](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
