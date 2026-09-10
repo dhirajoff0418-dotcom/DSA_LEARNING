@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0881-boats-to-save-people) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0844-backspace-string-compare/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0948-bag-of-tokens) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0509-fibonacci-number/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1025-divisor-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/1025-divisor-game/) | Easy |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Hash Table
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0845-longest-mountain-in-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Memoization
