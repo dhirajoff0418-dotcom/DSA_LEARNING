@@ -440,21 +440,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0226-invert-binary-tree/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
