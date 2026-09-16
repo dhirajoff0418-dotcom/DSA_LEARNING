@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0575-distribute-candies/) | Easy |
 | [0624-maximum-distance-in-arrays](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0624-maximum-distance-in-arrays/) | Medium |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0495-teemo-attacking/) | Easy |
 | [0844-backspace-string-compare](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0844-backspace-string-compare/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
