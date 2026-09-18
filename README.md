@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0046-permutations/) | Medium |
+| [0055-jump-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0649-dota2-senate](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/0649-dota2-senate/) | Medium |
