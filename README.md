@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3084-count-substrings-starting-and-ending-with-given-character/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/dhirajoff0418-dotcom/DSA_LEARNING/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
